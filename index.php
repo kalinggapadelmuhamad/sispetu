@@ -15,6 +15,10 @@
 <body>
     <!-- Navbar -->
     <?php
+    include 'config/database.php';
+    include 'app/models/jurusan/store.php';
+    include 'app/models/permohonan/create.php';
+    include 'app/models/cekPermohonan/cekPermohonan.php';
     require_once 'resource/partials/landingPage/navbar.php';
     require_once 'resource/partials/landingPage/jumbotron.php';
     require_once 'resource/partials/landingPage/panduan.php';

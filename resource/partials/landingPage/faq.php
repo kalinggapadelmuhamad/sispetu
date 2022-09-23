@@ -3,7 +3,7 @@
         <div class="row">
             <h2 class="text-center" data-aos="fade-up" data-aos-delay="400">FAQ <span class="text-primary">SISPETU</span></h2>
             <p class="text-center" data-aos="fade-up" data-aos-delay="800">UPT Pelayanan Biro Kemahasiswaan IIB Darmajaya</p>
-            <div class="col-md-12 mb-5" data-aos="fade-up" data-aos-delay="1000">
+            <div class="col-md-12  mt-3 mb-5" data-aos="fade-up" data-aos-delay="1000">
                 <div class="accordion accordion-flush" id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">

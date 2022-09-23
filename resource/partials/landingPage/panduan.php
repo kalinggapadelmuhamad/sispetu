@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <h2 class="text-center" data-aos="fade-up" data-aos-delay="400">Panduan Permohonan</h2>
-            <p class="text-center" data-aos="fade-up" data-aos-delay="800">UPT Pelayanan Biro Kemahasiswaan IIB Darmajaya</p>
+            <p class="text-center mb-3" data-aos="fade-up" data-aos-delay="800">UPT Pelayanan Biro Kemahasiswaan IIB Darmajaya</p>
             <div class="col-md-3 mb-3" data-aos="fade-up" data-aos-delay="1000">
                 <div class="card">
                     <img src="assets/img/web.svg" class="card-img-top" alt="...">
